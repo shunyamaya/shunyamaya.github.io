@@ -16,8 +16,8 @@ website:
     foreground: "#9F353A"
     # "#C63527"
   page-footer: 
-    center: 
-      - "<p> Last updated <script>document.write(new Date().getFullYear()) document.write(new Date().getMonth())</script> </p>"
+    # center: 
+    #   - "<p> Last updated <script> </script> </p>"
     background: "#E6E8E6"
     foreground: "#EACDC2"
   site-url: https://shunyamaya.github.io
@@ -29,8 +29,11 @@ format:
     css: styles.css
     toc: false
     mainfont: Georgia, serif
-    backgroundcolor: "#E6E8E6"
-    max-width: 100px
+    fontsize: 15px
+    backgroundcolor: "#EFE6DD"
+    linkcolor: "#E87A90"
+    grid: 
+      body-width: 600px
 
 
 

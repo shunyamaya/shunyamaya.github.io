@@ -6,11 +6,13 @@ navbar: false
 
 <br>
 
-<center><font size="21"> Shun Yamaya </font></center>
+<center><font size="17"> Shun Yamaya </font></center>
+&nbsp;
 
 ![](/file/images/cow.png){width=35% fig-align="center"}
 
 I am a Ph.D. candidate in Political Science at Stanford University. I study American politics, with a focus on political communication, media and technology.
+
 
 <br>
 
