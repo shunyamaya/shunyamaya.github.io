@@ -1,14 +1,26 @@
 ---
 title: ""
+navbar: false
 ---
 
-![Cute photo with cats](/file/images/IMG_4638.png)
+
+<br>
+
+<center><font size="21"> Shun Yamaya </font></center>
+
+![](/file/images/cow.png){width=35% fig-align="center"}
+
+I am a Ph.D. candidate in Political Science at Stanford University. I study American politics, with a focus on political communication, media and technology.
+
+<br>
+
+**<span style="color:#9F353A">contact: </span>** <br>
+syamaya at stanford dot edu
 
 
-# Introduction 
-Hi my name is Shun Yamaya. I'm a PhD student at Stanford. You can find my [CV here](/file/documents/cv/Yamaya_CV.pdf).
+**<span style="color:#9F353A">curriculum vitae: </span>** <br>
+You can find my [CV here](/file/documents/cv/Yamaya_CV.pdf).
 
-# Publications 
 
 
 

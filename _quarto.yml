@@ -6,26 +6,32 @@ website:
   title: "Shun Yamaya"
   favicon: figs/favicon.png
   navbar:
-    right:
-      - text: "About"
-        href: about.html
+    left:
       - icon: github
         href: https://github.com/shunyamaya
-    background: "#FFFFFF"
-    foreground: "#C63527"
+      - text: "About"
+        href: about.html
+      
+    background: "#E6E8E6"
+    foreground: "#9F353A"
+    # "#C63527"
   page-footer: 
     center: 
-      - "<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Shun Yamaya </p>"
-    background: "#FFFFFF"
-    foreground: "#EBCB64"
+      - "<p> Last updated <script>document.write(new Date().getFullYear()) document.write(new Date().getMonth())</script> </p>"
+    background: "#E6E8E6"
+    foreground: "#EACDC2"
   site-url: https://shunyamaya.github.io
-  description: "Shun's Personal Website"
+  description: "Shun Yamaya's Personal Website"
 
 format:
   html:
     theme: default
     css: styles.css
     toc: false
+    mainfont: Georgia, serif
+    backgroundcolor: "#E6E8E6"
+    max-width: 100px
+
 
 
 
