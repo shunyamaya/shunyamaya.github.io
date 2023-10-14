@@ -1,5 +1,5 @@
 ---
-title: "shunyamaya.github.io"
+title: "Shun Yamaya"
 ---
 
 This is a Quarto website.
@@ -10,7 +10,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 # Introduction 
 Hi my name is Shun Yamaya. I'm a PhD student at Stanford. 
 ```{r}
-1 + 1 = 2
+1 + 1 
 ```
 
 # Publications 
