@@ -2,9 +2,13 @@
 title: ""
 ---
 
+![Cute photo with cats](/file/images/IMG_4638.png)
+
 
 # Introduction 
-Hi my name is Shun Yamaya. I'm a PhD student at Stanford. 
-
+Hi my name is Shun Yamaya. I'm a PhD student at Stanford. You can find my [CV here](/file/documents/cv/Yamaya_CV.pdf).
 
 # Publications 
+
+
+
