@@ -11,12 +11,12 @@ website:
         href: about.html
       - icon: github
         href: https://github.com/shunyamaya
-    background: "#001E62"
+    background: "#FFFFFF"
     foreground: "#C63527"
   page-footer: 
     center: 
       - "<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Shun Yamaya </p>"
-    background: "#3E6CB9"
+    background: "#FFFFFF"
     foreground: "#EBCB64"
   site-url: https://shunyamaya.github.io
   description: "Shun's Personal Website"
