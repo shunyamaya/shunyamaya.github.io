@@ -36,6 +36,7 @@ format:
     grid: 
       body-width: 600px
 
-
+resources:
+  - CNAME
 
 
