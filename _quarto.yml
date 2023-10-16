@@ -22,6 +22,7 @@ website:
     foreground: "#EACDC2"
   site-url: https://shunyamaya.github.io
   description: "Shun Yamaya's Personal Website"
+  google-analytics: "G-J1H8HWS99H"
 
 format:
   html:
