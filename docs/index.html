@@ -34,12 +34,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-10a1fec7faad59c61b0000d59918315d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-2314adbbf30c6ab8e19490252aabf80e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -96,21 +95,41 @@ gtag('config', 'G-J1H8HWS99H', { 'anonymize_ip': true});
 
 
 <p><br></p>
-<center>
-<font size="17"> Shun Yamaya </font>
-</center>
-<p>&nbsp;</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./file/images/headshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:40.0%"></p>
-</figure>
+<div style="display: flex; gap: 3%; align-items: center;">
+<div style="flex: 0 0 30%;">
+<p><img src="./file/images/headshot.png" alt="Photo" style="border-radius:50%;
+           width:100%; 
+           max-width:350px;"></p>
 </div>
-<p>I am a Ph.D.&nbsp;candidate in Political Science at Stanford University. I study American politics, with a focus on political communication, media and technology.</p>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+<h2 style="font-size:36px; margin:0 0 0.3em 0;">
+Shun Yamaya
+</h2>
+<p style="margin: 0 0 0.5em 0;">
+I am a Ph.D.&nbsp;candidate in Political Science at Stanford University. I study American politics, with a focus on political communication, media and technology.
+</p>
+<p>
+<a href="mailto:syamaya@stanford.edu">syamaya@stanford.edu</a><br> <a href="./file/documents/cv/shun_yamaya_cv.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
+</p>
+<p style="display: flex; gap: 10px; align-items: center; margin: 0;">
+<a href="https://scholar.google.com/citations?user=VnDCxNgAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer"> <img src="./file/images/gs_icon.png" alt="Google Scholar" style="width: 32px; height: auto;"> </a> <a href="https://politicalscience.stanford.edu/people/shun-yamaya" target="_blank" rel="noopener noreferrer"> <img src="./file/images/stanford_icon.png" alt="Stanford" style="width: 32px; height: auto;"> </a>
+</p>
+</div>
+</div>
 <p><br></p>
-<p><strong><span style="color:#9F353A">contact: </span></strong> <br> syamaya at stanford dot edu</p>
-<p><strong><span style="color:#9F353A">curriculum vitae: </span></strong> <br> You can find my <a href="./file/documents/cv/shun_yamaya_cv.pdf">CV here</a>.</p>
-<p><strong><span style="color:#9F353A">work in progress: </span></strong> <br></p>
-<p><strong><span style="color:#9F353A">publications: </span></strong> <br></p>
+<div class="column" style="width:100%;">
+<p><strong><span style="color:#9F353A; font-size:24px;">Publications </span></strong> <br></p>
+<p><a href="./file/documents/research/education_and_antisemitism.pdf" target="_blank" rel="noopener noreferrer">“How the Relationship Between Education and Antisemitism Varies Between Countries”</a> <br> (with Brendan Nyhan and Thomas Zeitzoff) <br> <em>Research &amp; Politics</em>. June, 2024. <br> [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2IRERL">Replication Archive</a>] <br> <!-- [[ Supplemental Materials ]]() --></p>
+<p><a href="./file/documents/research/audience_diversity.pdf" target="_blank" rel="noopener noreferrer">“Political Audience Diversity and News Reliability in Algorithmic Rankings”</a> <br> (with Saumya Bhadani, Alessandro Flammini, Filippo Menczer, Giovanni Luca Ciampaglia, Brendan Nyhan) <br> <em>Nature Human Behavior</em>. March, 2022. <br> [<a href="https://github.com/glciampaglia/InfoDiversity/">Replication Archive</a>] <br></p>
+<p><a href="./file/documents/research/electoral_inversions.pdf" target="_blank" rel="noopener noreferrer">“The Effect of Electoral Inversions on Democratic Legitimacy: Evidence from the United States”</a> <br> (with John Carey, Gretchen Helmke, Brendan Nyhan, Mitch Sanders, and Susan Stokes) <br> <em>British Journal of Political Science</em>. August, 2021. <br> [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2IRERL">Replication Archive</a>]</p>
+</div>
+<p><br></p>
+<div class="column" style="width:100%;">
+<p><strong><span style="color:#9F353A; font-size:24px;">Work in Progress </span></strong> <br></p>
+<p>“The Expansion of the Internet and Campaign Donations”</p>
+<p>“Does Gun Purchasing Respond to Crime?” <br> (with Jonathan Rodden)</p>
+<!-- “Did Alternative Online Sources Contribute to January 6 Capitol Attack?" -->
+</div>
 
 
 
@@ -135,13 +154,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

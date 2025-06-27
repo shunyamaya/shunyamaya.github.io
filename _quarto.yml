@@ -30,11 +30,11 @@ format:
     css: styles.css
     toc: false
     mainfont: Georgia, serif
-    fontsize: 15px
+    fontsize: 16px
     backgroundcolor: "#EFE6DD"
     linkcolor: "#E87A90"
     grid: 
-      body-width: 600px
+      body-width: 800px
 
 resources:
   - CNAME
