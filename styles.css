@@ -1,5 +1,16 @@
 /* css styles */
 
+body {
+  font-family: 'Open-sans', sans-serif !important;
+  color: #1A1A1A;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Playfair Display', serif;
+  color: #9F353A;
+  font-weight: 700;
+}
+
 a {
   text-decoration: none;
   color: #B3555D; /* default link color (adjust as needed) */
@@ -9,4 +20,10 @@ a {
 a:hover {
   color: #8C2F39;       /* hover color */
   text-decoration: underline;  /* underline on hover */
+}
+
+hr.section-divider {
+  border: none;
+  border-top: 1px solid #E5E7EB; /* subtle but visible */
+  margin: 1em 0;
 }

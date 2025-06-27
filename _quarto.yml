@@ -10,14 +10,10 @@ website:
       - icon: github
         href: https://github.com/shunyamaya
       - text: "About"
-        href: about.html
-      
+        href: about.html   
     background: "#E6E8E6"
     foreground: "#9F353A"
-    # "#C63527"
   page-footer: 
-    # center: 
-    #   - "<p> Last updated <script> </script> </p>"
     background: "#E6E8E6"
     foreground: "#EACDC2"
   site-url: https://shunyamaya.github.io
@@ -28,8 +24,9 @@ format:
   html:
     theme: default
     css: styles.css
+    includes:
+      in_header: header.html
     toc: false
-    mainfont: Georgia, serif
     fontsize: 16px
     backgroundcolor: "#F9FAFB"
     linkcolor: "#B3555D"

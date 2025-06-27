@@ -19,15 +19,14 @@ format:
 </div>
   
 <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-<h2 style="font-size:36px; margin:0 0 0.3em 0;"> Shun Yamaya </h2>
+<h2 style="color:#1A1A1A; font-size:36px; margin:0 0 0.3em 0;"> Shun Yamaya </h2>
 <p style="margin: 0 0 0.5em 0;">
-I am a Ph.D. candidate in Political Science at Stanford University. I study American politics, with a focus on political communication, media and technology.
+I am a Ph.D. candidate in political science at Stanford University. I study American politics, with a focus on political communication, media and technology.
 </p>
 <p>
 <a href="mailto:syamaya@stanford.edu">syamaya@stanford.edu</a><br>
 <a href="/file/documents/cv/shun_yamaya_cv.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 </p>
-
 <p style="display: flex; gap: 10px; align-items: center; margin: 0;">
 <a href="https://scholar.google.com/citations?user=VnDCxNgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
 <img src="/file/images/gs_icon.png" alt="Google Scholar" style="width: 32px; height: auto;">
@@ -42,10 +41,10 @@ I am a Ph.D. candidate in Political Science at Stanford University. I study Amer
 
 
 
-<br>
+<hr class="section-divider" />
 
 ::: {.column width="100%"}
-**<span style="color:#9F353A; font-size:24px;">Publications </span>** <br>
+<h3 style="font-size:24;"> Publications </h3>
 
 <a href="/file/documents/research/education_and_antisemitism.pdf" target="_blank" rel="noopener noreferrer">“How the Relationship Between Education and Antisemitism Varies Between Countries”</a> <br>
 (with Brendan Nyhan and Thomas Zeitzoff) <br>
@@ -66,10 +65,10 @@ I am a Ph.D. candidate in Political Science at Stanford University. I study Amer
 
 :::
 
-<br>
+<hr class="section-divider" />
 
 ::: {.column width="100%"}
-**<span style="color:#9F353A; font-size:24px;">Work in Progress </span>** <br>
+<h3 style="font-size:24;"> Work in Progress </h3>
 
 “The Expansion of the Internet and Campaign Donations”
 
