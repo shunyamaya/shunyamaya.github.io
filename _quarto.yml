@@ -31,8 +31,8 @@ format:
     toc: false
     mainfont: Georgia, serif
     fontsize: 16px
-    backgroundcolor: "#EFE6DD"
-    linkcolor: "#E87A90"
+    backgroundcolor: "#F9FAFB"
+    linkcolor: "#B3555D"
     grid: 
       body-width: 800px
 

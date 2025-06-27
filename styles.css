@@ -2,11 +2,11 @@
 
 a {
   text-decoration: none;
-  color: #E87A90; /* default link color (adjust as needed) */
+  color: #B3555D; /* default link color (adjust as needed) */
   transition: color 0.2s ease, text-decoration 0.2s ease;
 }
 
 a:hover {
-  color: #D0104C;       /* hover color */
+  color: #8C2F39;       /* hover color */
   text-decoration: underline;  /* underline on hover */
 }
