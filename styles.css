@@ -22,8 +22,24 @@ a:hover {
   text-decoration: underline;  /* underline on hover */
 }
 
-hr.section-divider {
+<style>
+  .icon {
+    transition: opacity 0.3s ease;
+  }
+
+  .icon:hover {
+    opacity: 0.5; /* adjust this value to control transparency */
+  }
+</style>
+
+
+.section-divider {
   border: none;
-  border-top: 1px solid #E5E7EB; /* subtle but visible */
-  margin: 1em 0;
+  border-top: 1px solid rgba(229, 231, 235, 0.1);
+  width: 100%;         /* adjust to make shorter or longer */
+  margin: 2em auto;   /* centers it horizontally */
 }
+
+
+
+
