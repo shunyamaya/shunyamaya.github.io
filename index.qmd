@@ -19,7 +19,8 @@ format:
 <div>
 <h2 style="color:#1A1A1A; font-size:36px; margin:0 0 0.3em 0; border:none;"> Shun Yamaya </h2>
 <p style="margin: 0 0 0.5em 0;">
-I am a Ph.D. candidate in political science at Stanford University. I study American politics, with a focus on political communication, media and technology.
+I am a Ph.D. candidate in political science at Stanford University, where I study American politics with a focus on political participation, political communication, campaigns and extremism. My research centers on how emerging technologies are reshaping citizens’ incentives and capacities to engage in politics.
+
 </p>
 <p>
 <a href="mailto:syamaya@stanford.edu">syamaya@stanford.edu</a><br>
