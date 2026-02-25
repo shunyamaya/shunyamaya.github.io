@@ -62,8 +62,6 @@ I am a Ph.D. candidate in political science at Stanford University, where I stud
 ::: {.column width="100%"}
 <h3 style="font-size:24;"> Work in Progress </h3>
 
-“Did Alternative Online Sources Contribute to January 6th Capitol Attack?"
-
 “Campaigns and Conversation" <br>
 (with Matthew Dardet) <br>
 
