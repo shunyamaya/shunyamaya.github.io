@@ -41,34 +41,6 @@ I am a Ph.D. candidate in political science at Stanford University, where I stud
 
 <br>
 
-<hr class="section-divider">
-
-::: {.column width="100%"}
-<h3 style="font-size:24;"> Working papers </h3>
-
-<a href="/file/documents/research/internet_elections.pdf" target="_blank" rel="noopener noreferrer">“How did the Internet Change Campaign Fundraising? (Job Market Paper)”</a><br>
-
-<a href="/file/documents/research/guns_crime.pdf" target="_blank" rel="noopener noreferrer">“Does Gun Purchasing Respond to Crime?”</a> <br>
-(with Jonathan Rodden)
-
-
-<!-- “Did Alternative Online Sources Contribute to January 6 Capitol Attack?" -->
-
-:::
-
-
-<hr class="section-divider">
-
-::: {.column width="100%"}
-<h3 style="font-size:24;"> Work in Progress </h3>
-
-“Campaigns and Conversation" <br>
-(with Matthew Dardet) <br>
-
-:::
-
-
-
 
 <hr class="section-divider">
 ::: {.column width="100%"}
@@ -91,6 +63,42 @@ I am a Ph.D. candidate in political science at Stanford University, where I stud
 [ <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YZZFTK" target="_blank" rel="noopener noreferrer">Replication Archive</a> ] <br> 
 
 :::
+
+
+<hr class="section-divider">
+
+::: {.column width="100%"}
+<h3 style="font-size:24;"> Working Papers </h3>
+
+<a href="/file/documents/research/internet_elections.pdf" target="_blank" rel="noopener noreferrer">“How did the Internet Change Campaign Fundraising?”</a><br>
+
+<a href="/file/documents/research/ads_and_affective_polarization.pdf" target="_blank" rel="noopener noreferrer">“Exposure to Negative Advertising Contributes to
+Affective Polarization”</a> <br>
+(with Brian Wu, Shanto Iyengar, David Brady, and Douglas Rivers)
+
+<a href="/file/documents/research/guns_crime.pdf" target="_blank" rel="noopener noreferrer">“Does Gun Purchasing Respond to Crime?”</a> <br>
+(with Jonathan Rodden)
+
+
+<!--  -->
+
+:::
+
+
+<hr class="section-divider">
+
+::: {.column width="100%"}
+<h3 style="font-size:24;"> Work in Progress </h3>
+
+“Campaigns and Conversation" <br>
+(with Matthew Dardet) <br>
+
+“Did Alternative Online Sources Contribute to January 6 Capitol Attack?"
+
+:::
+
+
+
 
 
 
