@@ -80,6 +80,10 @@ Affective Polarization”</a> <br>
 (with Jonathan Rodden)
 
 
+<a href="/file/documents/research/talking_campaigns.pdf" target="_blank" rel="noopener noreferrer">“Campaign Advertisements and Political Conversation"</a> <br>
+(with Matthew Dardet)
+
+
 <!--  -->
 
 :::
@@ -90,8 +94,8 @@ Affective Polarization”</a> <br>
 ::: {.column width="100%"}
 <h3 style="font-size:24;"> Work in Progress </h3>
 
-“Campaigns and Conversation" <br>
-(with Matthew Dardet) <br>
+ <br>
+(with ) <br>
 
 “Did Alternative Online Sources Contribute to January 6 Capitol Attack?"
 
