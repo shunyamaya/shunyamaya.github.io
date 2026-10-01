@@ -19,7 +19,7 @@ format:
 <div>
 <h2 style="color:#1A1A1A; font-size:36px; margin:0 0 0.3em 0; border:none;"> Shun Yamaya </h2>
 <p style="margin: 0 0 0.5em 0;">
-I am a Ph.D. candidate in political science at Stanford University, where I study American politics with a focus on political participation, political communication, campaigns and extremism. My research centers on how emerging technologies are reshaping citizens’ incentives and capacities to engage in politics.
+I am a postdoctoral fellow at the Institute for the Study of Citizens and Politics at the University of Pennsylvania, where I study American politics with a focus on American political behavior, political communication, and electoral politics
 
 </p>
 <p>
@@ -94,8 +94,8 @@ Affective Polarization”</a> <br>
 ::: {.column width="100%"}
 <h3 style="font-size:24;"> Work in Progress </h3>
 
+<a href="/file/documents/research/after_parler.pdf" target="_blank" rel="noopener noreferrer">“Did Alternative Online Sources Contribute to January 6 Capitol Attack?"</a> <br>
 
-“Did Alternative Online Sources Contribute to January 6 Capitol Attack?"
 
 :::
 
